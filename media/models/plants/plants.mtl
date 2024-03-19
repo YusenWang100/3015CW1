@@ -1,0 +1,62 @@
+# Blender 4.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Day5
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Day5_baseColor.png
+
+newmtl Steam
+Ns 265.410858
+Ka 0.838887 0.838887 0.838887
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd textures/Steam_baseColor.png
+
+newmtl Tomat
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Tomat_baseColor.png
+map_d textures/Tomat_baseColor.png
+
+newmtl carrot
+Ns 404.212372
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/carrot_baseColor.png
+map_d textures/carrot_baseColor.png
+
+newmtl roof
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/roof_baseColor.png
+
+newmtl sunnyflover
+Ns 50.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/sunnyflover_baseColor.png
+map_d textures/sunnyflover_baseColor.png

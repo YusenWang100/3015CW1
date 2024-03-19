@@ -1,0 +1,30 @@
+# Blender MTL File: 'toycar.blend'
+# Material Count: 3
+
+newmtl Glass
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.300000 0.800000 0.300000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+Pc 0
+Pcr 0.03
+illum 2
+
+newmtl ToyCar
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+norm ToyCar_normal.png
+map_Kd ToyCar_basecolor.png
+map_Ke ToyCar_emissive.png
+map_Pr -imfchan g ToyCar_occlusion_roughness_metallic.png
+map_Pm -imfchan b ToyCar_occlusion_roughness_metallic.png
+map_Ka -imfchan r ToyCar_occlusion_roughness_metallic.png
