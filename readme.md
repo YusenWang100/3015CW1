@@ -15,6 +15,6 @@ According to the separable feature of Gaussian filtering, you need to alternate 
 3. Use combineshader to superimpose the filtered effect and the original effect together, i.e. to realize the final bloom.
 
 ## Youtube video Link
-https://youtu.be/qacoU8qks2Y
+https://youtu.be/tvumCPvi_O0
 
 
